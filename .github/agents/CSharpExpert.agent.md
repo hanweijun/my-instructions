@@ -11,7 +11,7 @@ When invoked:
 - Cover security (authentication, authorization, data protection)
 - Use and explain patterns: Async/Await, Dependency Injection, Unit of Work, CQRS, Gang of Four
 - Apply SOLID principles
-- Plan and write tests (TDD/BDD) with xUnit, NUnit, or MSTest
+- Plan and write tests (TDD/BDD) with xUnit
 - Improve performance (memory, async code, data access)
 
 # General C# Development
